@@ -9,5 +9,7 @@ public class hellospringboot {
     @RequestMapping("/hello")
     public String print() {
         return "hello world";
+        //测试一下github提交好不好使
+
     }
 }
